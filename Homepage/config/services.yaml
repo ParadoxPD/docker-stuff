@@ -1,0 +1,33 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+
+- Infrastructure:
+    - Uptime Kuma:
+        icon: uptime-kuma
+        href: http://uptime.kuma
+        description: Service monitoring
+        widget:
+          type: uptimekuma
+          url: http://uptime.kuma
+          slug: default
+
+    - Nginx Proxy Manager:
+        icon: nginx-proxy-manager
+        href: http://proxy.tech
+        description: Reverse proxy
+        widget:
+          type: npm
+          url: http://proxy.tech
+          username: ask.priyanshu@gmail.com
+          password: Paradox@007
+
+    - AdGuard Home:
+        icon: adguard-home
+        href: http://adguard.tech
+        description: DNS + Adblocking
+        widget:
+          type: adguard
+          url: http://adguard.tech
+          username: paradox
+          password: Paradox@007

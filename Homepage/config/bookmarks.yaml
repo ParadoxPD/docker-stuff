@@ -1,0 +1,39 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
+
+- Developer:
+    - Github:
+        - icon: github-light.png
+          href: https://github.com/ParadoxPD
+    - ChatGPT:
+        - icon: chatgpt.png
+          href: https://chatgpt.com/
+    - Gemini:
+        - icon: google-gemini.png
+          href: https://gemini.google.com/app
+    - Claude:
+        - icon: claude-ai.png
+          href: https://claude.ai/
+- Social:
+    - Twitter:
+        - icon: twitter.png
+          href: https://x.com/paradoxthenerd
+    - Gmail:
+        - icon: gmail.png
+          href: https://mail.google.com/mail/u/1/#inbox
+    - Gmail:
+        - icon: gmail.png
+          href: https://mail.google.com/mail/u/4/#inbox
+          description: NITRKL Mail
+
+- Entertainment:
+    - YouTube:
+        - icon: youtube.png
+          href: https://youtube.com/
+
+- College:
+    - NITRis:
+        - abbr: NR
+          href: https://eapplication.nitrkl.ac.in/nitris/Login.aspx
+          description: NITRis Portal

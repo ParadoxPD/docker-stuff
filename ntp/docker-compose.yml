@@ -1,0 +1,14 @@
+services:
+  chrony-ntp:
+    image: cturra/ntp:latest
+    container_name: chrony-ntp
+    network_mode: host
+    restart: always
+    cap_add:
+      - SYS_TIME
+      - SYS_NICE
+    environment:
+      - TZ=Asia/Kolkata
+      - ENABLE_NTS=true
+      - ENABLE_SYSCLK=true
+      - ALLOW=192.168.0.0/24 10.0.0.0/8 172.16.0.0/12

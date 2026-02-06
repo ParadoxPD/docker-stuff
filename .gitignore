@@ -1,0 +1,15 @@
+/Vocard/
+/NPM/data/
+/NPM/letsencrypt/
+/Kuma/data/
+/AdguardHome/confdir/
+/AdguardHome/workdir/
+
+**/workdir/
+**/data/
+**/logs/
+**/*.db
+**/*.sqlite
+**/mongo/
+**/letsencrypt/
+

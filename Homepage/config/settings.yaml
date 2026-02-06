@@ -1,0 +1,19 @@
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/settings/
+title: Homelab Dashboard
+theme: dark
+color: slate
+background:
+  image: /images/Trees.jpg
+  blur: xs # sm, "", md, xl... see https://tailwindcss.com/docs/backdrop-blur
+  opacity: 60 # 0-100
+  brightness: 80
+
+quicklaunch:
+  searchDescriptions: true
+  showSearchSuggestions: true
+  provider: google
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey
