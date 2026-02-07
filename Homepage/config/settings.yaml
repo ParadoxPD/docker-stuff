@@ -12,7 +12,10 @@ background:
 quicklaunch:
   searchDescriptions: true
   showSearchSuggestions: true
-  provider: google
+  hideVisitURL: true
+  provider: custom
+  url: "https://www.google.com/search?q="
+  target: "_self"
 
 providers:
   openweathermap: openweathermapapikey
