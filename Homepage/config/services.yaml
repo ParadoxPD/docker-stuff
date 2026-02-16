@@ -80,8 +80,35 @@
             href: https://mail.google.com/mail/u/4/#inbox
             description: NITRKL Mail
 
+    - Documents:
+        - Google Sheets:
+            icon: google-sheets.png
+            href: https://docs.google.com/spreadsheets/u/1/
+        - Google Docs:
+            icon: google-docs.png
+            href: https://docs.google.com/document/u/1/
+        - Google Forms:
+            icon: google-forms.png
+            href: https://docs.google.com/forms/u/1/
+
     - Misc:
         - Fast:
             icon: fast-com-light.png
             href: https://fast.com/
             description: Internet speed test
+
+    - Local:
+        - Jupyter labs:
+            icon: jupyter.png
+            href: http://localhost:8888/lab
+            description: Local jupyter lab server
+        - 4000:
+            abbr: lo
+            icon: locals.png
+            href: http://localhost:4000
+            description: Localhost 4000
+        - 8000:
+            abbr: lo
+            icon: locals.png
+            href: http://localhost:8000
+            description: Localhost 8000
