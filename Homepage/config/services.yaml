@@ -31,3 +31,57 @@
           url: http://adguard.tech
           username: paradox
           password: Paradox@007
+
+- Bookmarks:
+    - Developer:
+        - Github:
+            icon: github-light.png
+            href: https://github.com/ParadoxPD
+
+        - ChatGPT:
+            icon: chatgpt.png
+            href: https://chatgpt.com/
+
+        - Gemini:
+            icon: google-gemini.png
+            href: https://gemini.google.com/app
+
+        - Claude:
+            icon: claude-ai.png
+            href: https://claude.ai/
+
+    - Social:
+        - Twitter:
+            icon: twitter.png
+            href: https://x.com/paradoxthenerd
+
+        - Gmail:
+            icon: gmail.png
+            href: https://mail.google.com/mail/u/1/#inbox
+
+        - Teams:
+            icon: microsoft-teams.png
+            href: https://teams.microsoft.com/v2/
+            description: Microsoft Teams
+
+    - Entertainment:
+        - YouTube:
+            icon: youtube.png
+            href: https://youtube.com/
+
+    - College:
+        - NITRis:
+            abbr: NR
+            href: https://eapplication.nitrkl.ac.in/nitris/Login.aspx
+            description: NITRis Portal
+
+        - Gmail:
+            icon: gmail.png
+            href: https://mail.google.com/mail/u/4/#inbox
+            description: NITRKL Mail
+
+    - Misc:
+        - Fast:
+            icon: fast-com-light.png
+            href: https://fast.com/
+            description: Internet speed test

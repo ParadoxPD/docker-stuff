@@ -20,3 +20,14 @@ quicklaunch:
 providers:
   openweathermap: openweathermapapikey
   weatherapi: weatherapiapikey
+
+layout:
+  Services:
+    style: column
+    columns: 2
+  Infrastructure:
+    style: column
+    columns: 3
+  Bookmarks:
+    style: row
+    columns: 4
